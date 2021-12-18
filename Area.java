@@ -1,4 +1,4 @@
-import javal.util.Scanner;
+import java.util.Scanner;
 	 
 class Area1{
     private int length;
