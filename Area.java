@@ -15,9 +15,9 @@ class Area1{
 public class Area{
     public static void main(String[]args){
         Scanner input = new Scanner(System.in);
-        System.out.println("Enter length ");
+        System.out.print("Enter length ");
         int length = input.nextInt();
-        System.out.println("Enter width ");
+        System.out.print("Enter width ");
         int width = input.nextInt();
 	Area1 object = new Area1(length, width);
 
